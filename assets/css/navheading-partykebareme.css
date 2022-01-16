@@ -1,0 +1,33 @@
+.navheading {
+    display: inline-block;
+  }
+
+  .navheading h4 {
+    font-size: 30px;
+    margin-top: 12px;
+    text-align: center;
+    font-weight: 600;
+  }
+
+  .content .row h4{
+      text-align: center;
+  }
+
+  .content .boxx {
+    padding: 20px;
+    background-color: #f3f1f0;
+    border-radius: 8px;
+    text-align: justify;
+    margin-bottom: 20px;
+  }
+
+ .content .btnnarendra .btnn a{
+    background-color: #0a0a0a;
+    color: white;
+    border: none;
+  }
+  
+  .content .btnnarendra .btnn a:hover{
+    background-color: rgb(13, 14, 13);
+    color: #0c0c0c;
+  }
